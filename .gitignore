@@ -107,4 +107,4 @@ dist
 build/contracts
 
 # Private
-.env
+.env_SECRET
